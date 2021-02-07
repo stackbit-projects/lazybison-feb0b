@@ -23,10 +23,7 @@ sections:
       - title: Web Development
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: "LazyBizon team designs and customizes web products\_that help clients to\_follow the latest industry trends to keep up with its standards and remain competitive.\n"
         actions:
           - label: Learn More
             url: /features
