@@ -20,7 +20,7 @@ sections:
       Full-cycle software development services designed to help your business
       grow.
     features:
-      - title: The Best Feature of Your Services
+      - title: Web Development
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
