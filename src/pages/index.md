@@ -18,7 +18,7 @@ sections:
     title: 'Custom Software Development Services '
     subtitle: >-
       Full-cycle software development services designed to help your business
-      grow
+      grow.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
