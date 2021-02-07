@@ -47,10 +47,7 @@ sections:
       - title: Ecommerce Development
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: "Development of custom eCommerce Solutions for Profitable Growth.\_We empower B2B and B2C businesses with eCommerce software to win conversions.\n"
         actions:
           - label: Learn More
             url: /features
