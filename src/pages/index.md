@@ -17,8 +17,8 @@ sections:
     background: gray
     title: 'Custom Software Development Services '
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Full-cycle software development services designed to help your business
+      grow
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
