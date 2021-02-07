@@ -34,10 +34,9 @@ sections:
       - title: ERP/CRM Software
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Our team is ready to create new custom CRM/ERP solutions or integrate
+          third-party solution that would make a perfect fit for client's needs.
         actions:
           - label: Learn More
             url: /features
